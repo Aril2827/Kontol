@@ -223,14 +223,14 @@ KELEBIHAN BOTZ
 
 LIST HARGA SEWA BOTZ
 ▢ PERHARI 2K
-▢ PERMINGGU 5K
-▢ PERBULAN 15K
-▢ PERMANEN 40K
+▢ PERMINGGU 4K
+▢ PERBULAN 5K
+▢ PERMANEN 10K
 MINAT HIBUNGI OWNER
-wa.me/6282287486762
+wa.me/62881024358619
 
 YG MAU TOP UP GAME MARI JOIN
-https://chat.whatsapp.com/KUb8JJwppqL3zLS7p9xXx7`
+https://chat.whatsapp.com/FhHD0Be8qQK8JsTTjNRBVO`
 }
 exports.infoMenu = (prefix) => {
 return `
@@ -429,7 +429,7 @@ return`
 
 `}
 exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount, sender, baterai) => {
-    return `━━━━━『DHA BOTZ』━━━━━
+    return `━━━━━『ARIL BOTZ』━━━━━
 
 𝗜𝗡𝗙𝗢 𝗣𝗘𝗡𝗚𝗚𝗨𝗡𝗔 𝗕𝗢𝗧
 ❏ NAMA : *${pushname}*
@@ -826,4 +826,4 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 *▢ ${prefix}memeindo*
 *▢ ${prefix}darkjoke*
 
-©𝑪𝒓𝒆𝒂𝒕𝒐𝒓 𝒃𝒚 𝒚𝒖𝒅𝒉𝒂 𝒑𝒆𝒓𝒅𝒂𝒏𝒂`}
+©CREATOR BY ARIL STORE`}
