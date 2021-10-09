@@ -24,8 +24,8 @@ const starts = async (dha = new WAConnection()) => {
 		whitespaceBreak: false
 	}), 'cyan'))
 	console.log(color('[SOURCE CODE INI DIJAGA DAN DI LINDUNGI OLEH YUDHA]\n\n', 'orange'), color('\n======TERIMKASIH BANYAK KEPADA======\n•MHANKBARBAR\n•NINO\n•IKYADS\n•YUDHA PERDANA\n•DAFFA PATNER SAYA\n•COPAS TEAM\n•PENYEDIA APIKEY\n•SELURUH CREATOR BOT\n•SELURUH SUBSCRIBERKU\n•SELURUH BUYER SCRIP INI', 'yellow'))
-	console.log(color('\n\nJANGAN DI JUAL ULANG BRO😑\nKALAU ADA YG MINTA SURUH CHAT ©KurrXd😅\nWA YUDHA 6281220670449😗', 'pink'))
-	dha.browserDescription = ["DHA BOTZ", "Chrome", "3.0.0"];
+	console.log(color('\n\nJANGAN DI JUAL ULANG BRO😑\nKALAU ADA YG MINTA SURUH CHAT ©ArilXd😅\nWA ARIL 62881024358619😗', 'pink'))
+	dha.browserDescription = ["ARIL BOTZ", "Chrome", "3.0.0"];
 
 	// Menunggu QR
 	dha.on('qr', () => {
